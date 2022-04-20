@@ -1,3 +1,7 @@
+from Contruccion import *
+from Archivo import *
+from Parametros import *
+
 #EJECUCION DEL PROGRAMA
 def main():
     "Funcion principal que relaciona todas las funciones anteriores y crea el fractal"
